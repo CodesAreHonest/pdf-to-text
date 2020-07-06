@@ -1,0 +1,8 @@
+{
+    "name": "rongkai/pdf-to-database",
+    "description": "Convert PDF to Database",
+    "type": "project",
+    "require": {
+        "spatie/pdf-to-text": "^1.3"
+    }
+}
